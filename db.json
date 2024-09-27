@@ -1,0 +1,27 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "titulo": "Suco de Laranja",
+      "valor": "6,00"
+    },
+    {
+      "id": "2",
+      "titulo": "Café Expresso",
+      "valor": "6,50"
+    },
+    {
+      "id": "3",
+      "titulo": "Misto-quente",
+      "valor": "5.0"
+    },
+    {
+      "id": "11d4",
+      "titulo": "Macarrão",
+      "descricao": "Massa gostosa",
+      "valor": "10.0",
+      "imagemUrl": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,width=1080,height=99999,fit=scale-down/wp-content/uploads/2023/07/istock-1344949298-e1690552327954.jpg"
+    }
+  ],
+  "vendas": []
+}
